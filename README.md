@@ -1,3 +1,6 @@
 # DnCNN_work
-研一视觉检测作业：目标是对图像进行去噪,采用经典DnCNN网络进行训练，训练及测试代码
-有用信息：该项目是生成式神经网络结构
+Image denoising task:
+The classic DnCNN network architecture is used for training and testing.
+The relevant code is open source in the master branch.
+Note: This project uses a generative neural network structure.
+
